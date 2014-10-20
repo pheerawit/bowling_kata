@@ -1,5 +1,5 @@
 require 'rspec'
-require 'Bowling' 
+require 'bowling' 
 
 describe Bowling do
 	before do
